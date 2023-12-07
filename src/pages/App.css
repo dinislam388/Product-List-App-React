@@ -1,0 +1,47 @@
+.colorSelect {
+    margin-top: 20px;
+    padding: 8px 21.5rem 8px 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: rgb(47, 47, 47);
+    margin-bottom: 40px;
+}
+
+.redColor {
+    color: red;
+}
+
+.blackColor {
+    color: rgb(0, 0, 0);
+}
+
+.greenColor {
+    color: green;
+}
+
+.blueColor {
+    color: blue;
+}
+
+.redioSelect input {
+    margin-left: 8px;
+}
+
+.redioSelect {
+    color: rgb(47, 47, 47);
+    padding: 10px 0px;
+}
+
+.imgGif {
+    width: 70%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-left: 90px;
+}
+
+.noProduct {
+    text-align: center;
+}
