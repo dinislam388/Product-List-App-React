@@ -1,5 +1,5 @@
 import './App.css'
-import  gifImg  from "./packshot.gif"
+// import  gifImg  from "./packshot.gif"
 import { useState } from "react";
 import BookRow from "../Components/BookRow";
 
