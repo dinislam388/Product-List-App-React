@@ -7,29 +7,31 @@
     overflow-x: hidden;
     overflow-y: auto;
     /* background-color: #77f5d3; */
-    background-color: #A3B8BB;
+    background-color: #3D455F;
   }
   
   .wrapper h1{
     margin-top: 30px;
     text-align: center;
+    color: #fff;
   }
   
   .wrapper p{
     text-align: center;
     margin-top: 7px;
     font-weight: bold;
+    color: #fff;
   }
   
   .wrapper .main{
-    display: flex;
+    /* display: flex; */
     margin-top: 20px;
     align-items: center;
   }
   
   .wrapper .form-container{
     width: 500px;
-    background-color: #65969c;
+    background-color: #606989;
     margin: 20px auto;
     padding: 20px;
     border-radius: 10px;
